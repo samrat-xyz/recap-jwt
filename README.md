@@ -9,7 +9,7 @@ using **Express.js** and **MongoDB**.
 
 - Node.js
 - Express.js
-- MongoDB (Native Driver)
+- MongoDB 
 - JSON Web Token (JWT)
 - dotenv
 
